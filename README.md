@@ -1,6 +1,6 @@
 <img align='right' src='https://github.com/zeetaros/zeetaros/blob/master/images/mudkip.gif' width='233'>  
 
-# Hi there! Welcome to my Github! <img align='left' src='https://github.com/zeetaros/zeetaros/blob/master/images/wave.gif' width='40'>
+# Hi there! Welcome to my GitHub! <img align='left' src='https://github.com/zeetaros/zeetaros/blob/master/images/wave.gif' width='40'>
   
 <img alt="" width="475" src="https://github.com/zeetaros/zeetaros/blob/master/github-metrics.svg" alt=""></img>
 
