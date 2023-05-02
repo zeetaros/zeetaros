@@ -11,7 +11,9 @@
 ![R](https://img.shields.io/badge/--000?&logo=R&logoColor=276DC3&label=R)
 ![JSON](https://img.shields.io/badge/--000?&logo=json&logoColor=000000&label=JSON)
 ![Jinja](https://img.shields.io/badge/--000?&logo=jinja&logoColor=B41717&label=Jinja)
+![YAML](https://img.shields.io/badge/--000?&logo=yaml&logoColor=CB171E&label=YAML)
   
+![MSSQL](https://img.shields.io/badge/--000?&logo=microsoftsqlserver&logoColor=CC2927&label=MS%20SQL)
 ![PostgreSQL](https://img.shields.io/badge/--000?&logo=PostgreSQL&logoColor=4169E1&label=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/--000?&logo=MongoDB&logoColor=47A248&label=MongoDB)
 ![FastAPI](https://img.shields.io/badge/--000?&logo=fastapi&logoColor=009688&label=FastAPI)
@@ -19,27 +21,33 @@
   
 ![VSCode](https://img.shields.io/badge/--000?&logo=visualstudiocode&logoColor=007ACC&label=VSCode)
 ![Vim](https://img.shields.io/badge/--000?&logo=vim&logoColor=019733&label=Vim)
+![iTerm2](https://img.shields.io/badge/--000?&logo=iterm2&logoColor=000000&label=iTerm2)
 <br>
 
 ### Machine Learning
 ![Sklearn](https://img.shields.io/badge/--000?&logo=scikitlearn&logoColor=F7931E&label=Scikit-learn)
+![PyTorch](https://img.shields.io/badge/--000?&logo=pytorch&logoColor=EE4C2C&label=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/--000?&logo=tensorflow&logoColor=FF6F00&label=TensorFlow)
 ![Keras](https://img.shields.io/badge/--000?&logo=keras&logoColor=D00000&label=Keras)
 ![FFmpeg](https://img.shields.io/badge/--000?&logo=ffmpeg&logoColor=007808&label=FFmpeg)
-  
+![Anaconda](https://img.shields.io/badge/--000?&logo=anaconda&logoColor=44A833&label=Anaconda)
+
 ![SpaCy](https://img.shields.io/badge/--000?&logo=spacy&logoColor=09A3D5&label=SpaCy)
-![pands](https://img.shields.io/badge/--000?&logo=pandas&logoColor=150458&label=pandas)
+![Pandas](https://img.shields.io/badge/--000?&logo=pandas&logoColor=150458&label=Pandas)
 ![numpy](https://img.shields.io/badge/--000?&logo=numpy&logoColor=013243&label=NumPy)
+![scipy](https://img.shields.io/badge/--000?&logo=scipy&logoColor=8CAAE6&label=SciPy)
+![Yolo](https://img.shields.io/badge/--000?&logo=yolo&logoColor=00FFFF&label=Yolo)
 ![Jupyter](https://img.shields.io/badge/--000?&logo=jupyter&logoColor=F37626&label=Jupyter)
+![Colab](https://img.shields.io/badge/--000?&logo=googlecolab&logoColor=F9AB00&label=Google%20Colab)
 <br>
 
 ### Cloud Engineering & Architecture
 ![AWS](https://img.shields.io/badge/--000?&logo=amazonaws&logoColor=F90&label=AWS)
 ![EC2](https://img.shields.io/badge/--000?&logo=amazonec2&logoColor=FF9900&label=EC2)
+![Lambda](https://img.shields.io/badge/--000?&logo=awslambda&logoColor=FF9900&label=Lambda)
 ![DynamoDB](https://img.shields.io/badge/--000?&logo=amazondynamodb&logoColor=4053D6&label=DynamoDB)
 ![S3](https://img.shields.io/badge/--000?&logo=amazons3&logoColor=569A31&label=S3)
 ![SQS](https://img.shields.io/badge/--000?&logo=amazonsqs&logoColor=FF4F8B&label=SQS)
-  
 ![CloudWatch](https://img.shields.io/badge/--000?&logo=amazoncloudwatch&logoColor=FF4F8B&label=CloudWatch)
 ![Terraform](https://img.shields.io/badge/--000?&logo=terraform&logoColor=7B42BC&label=Terraform)
 <br>
@@ -57,6 +65,8 @@
 ![Jira](https://img.shields.io/badge/--000?&logo=jira&logoColor=0052CC&label=Jira)
 ![Confluence](https://img.shields.io/badge/--000?&logo=confluence&logoColor=172B4D&label=Confluence)
 ![Git](https://img.shields.io/badge/--000?&logo=git&logoColor=F05032&label=Git)
+![GitHub](https://img.shields.io/badge/--000?&logo=github&logoColor=181717&label=GitHub)
+![GitLab](https://img.shields.io/badge/--000?&logo=gitlab&logoColor=FC6D26&label=GitLab)
 <br>
 
 
